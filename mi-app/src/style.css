@@ -1,0 +1,119 @@
+h1{
+  background-color: gold;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  
+}
+
+#price {
+  background-color: gold;
+  font-size:small;
+  font-style: italic;
+  font-weight: normal;
+  font-weight: bold;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+
+}
+
+#total {
+  background-color: #ccc;
+  font-style: italic;
+  font-weight: normal;
+  font-weight: bold;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+
+}
+
+img {
+  height: 200px;
+  max-width: 200px;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  min-width: 200px;
+  max-width: 200px;
+  text-align: center;
+  
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+#image{
+  height: 80px;
+  max-width: 80px;
+}
+
+#cart{
+  
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  max-width: 200px;
+  text-align: center;
+  box-shadow: 5px 5px 10px gold;
+}
+
+footer{
+  background-color: gold;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+
+}
+#cardItems {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+  max-width: 200px;
+  text-align: center;
+}
+
+#home button{
+  display: block;
+  margin: 0 auto;
+}
